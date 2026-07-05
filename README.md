@@ -1,5 +1,5 @@
 <div align="center">
-
+  
 # 🌊 Analisis Statistik Deskriptif: Sebaran Temporal Desa Terdampak Banjir (Jawa Timur 2019-2021)
 
 ![Language](https://img.shields.io/badge/Language-Python_3-blue?style=for-the-badge&logo=python&logoColor=white)
@@ -22,6 +22,15 @@
 Repositori ini berisi implementasi analisis data yang mengevaluasi tren bencana banjir di tingkat desa/kelurahan di Provinsi Jawa Timur selama periode 2019–2021. Proyek ini mengubah data sekunder dari **BPS Jawa Timur** menjadi informasi yang dapat ditindaklanjuti untuk mendukung mitigasi bencana berbasis data.
 
 Analisis dilakukan dengan menerapkan prosedur pembersihan data (data cleaning), perhitungan statistik deskriptif, serta pemodelan sebaran untuk mendeteksi wilayah yang menjadi *hotspot* banjir.
+
+---
+
+## 📋 Project Documentation
+<div align="center">
+<img width="34%" alt="image" src="https://github.com/user-attachments/assets/91793362-398c-4e02-b170-15232b9838b5" />
+<img width="36%" alt="image" src="https://github.com/user-attachments/assets/5f3124b5-b6c9-4bf2-8227-6476e836b3ae" />
+<img width="28%" alt="image" src="https://github.com/user-attachments/assets/d813ff6e-f1f9-4e6f-8154-d1cf236433e7" />
+</div>
 
 ---
 
